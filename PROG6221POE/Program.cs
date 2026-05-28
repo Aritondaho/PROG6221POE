@@ -3,7 +3,7 @@ namespace PROG6221POE
     internal static class Program
     {
         
-        ///  The main entry point for the application.
+        
         
         [STAThread]
         static void Main()
